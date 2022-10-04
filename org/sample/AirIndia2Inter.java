@@ -25,6 +25,7 @@ public class AirIndia2Inter implements Interface {
 		air.ultimatesummer();
 		air.starbukstar();
 		
+		System.out.println("jerry");
 				
 	}
 }
